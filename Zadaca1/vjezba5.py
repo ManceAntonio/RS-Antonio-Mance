@@ -13,3 +13,4 @@ for i in range(10, 1, 2):
 
 for i in range(10, 1, -1):
   print(i)
+# ispisuju se brojevi od 10 do 2 jer je u petlji stavljeno da krene od 10 i da dode do 1 za -1.
